@@ -1,3 +1,5 @@
+Replaced with [curator-effect](https://github.com/pera-urosevic/curator-effect)
+
 # Curator
 
 A Node.js/TypeScript CLI that recursively scans a directory for JPEG images,
